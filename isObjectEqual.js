@@ -20,5 +20,3 @@ function isObjectEqual(object1, object2) {
 function isObejct(object) {
   return object != null && typeof object === "object"
 }
-
-console.log(isObjectEqual(obj1, obj2));
